@@ -13,6 +13,15 @@ Topics Covered:
 - AND, OR, NOT operators 
 - NULL/NOT NULL conditions 
 
-Practised conditional filtering Queries.
+Practiced conditional filtering Queries.
+
+I will update this repository daily with new topics.
+
+## Day 3 
+Topics Covered:
+- Like (wildcards) operator
+- Between , In , Not In operators
+
+Practiced pattern matching and filtering queries.
 
 I will update this repository daily with new topics.
