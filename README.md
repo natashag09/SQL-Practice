@@ -15,13 +15,19 @@ Topics Covered:
 
 Practiced conditional filtering Queries.
 
-I will update this repository daily with new topics.
-
 ## Day 3 
 Topics Covered:
 - Like (wildcards) operator
 - Between , In , Not In operators
 
 Practiced pattern matching and filtering queries.
+
+## Day 4
+Topics Covered:
+- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+- GROUP BY 
+- HAVING 
+
+Practised aggregation and grouping queries. 
 
 I will update this repository daily with new topics.
