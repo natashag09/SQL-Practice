@@ -30,4 +30,13 @@ Topics Covered:
 
 Practised aggregation and grouping queries. 
 
+## Day 5 
+Topics Covered: 
+- Inner Join 
+- Left Join 
+- Right Join 
+
+Practised combining data from multiple tables. 
+
+
 I will update this repository daily with new topics.
