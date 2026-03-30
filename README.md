@@ -38,5 +38,11 @@ Topics Covered:
 
 Practised combining data from multiple tables. 
 
+## Day 6 
+Topics Covered: 
+-self Join 
+-Advanced Join Queries 
+
+Practised self join and advanced join queries for combining multiple tables.
 
 I will update this repository daily with new topics.
