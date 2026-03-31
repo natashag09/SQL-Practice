@@ -28,7 +28,7 @@ Topics Covered:
 - GROUP BY 
 - HAVING 
 
-Practised aggregation and grouping queries. 
+Practiced aggregation and grouping queries. 
 
 ## Day 5 
 Topics Covered: 
@@ -36,13 +36,20 @@ Topics Covered:
 - Left Join 
 - Right Join 
 
-Practised combining data from multiple tables. 
+Practiced combining data from multiple tables. 
 
 ## Day 6 
 Topics Covered: 
--self Join 
+-Self Join 
 -Advanced Join Queries 
 
-Practised self join and advanced join queries for combining multiple tables.
+Practiced complex join scenarios and table relationships.
+
+## Day 7 
+Topics Covered:
+-Alter Table 
+-Update Command 
+
+Practiced modifying table structure and updating data.
 
 I will update this repository daily with new topics.
