@@ -40,16 +40,23 @@ Practiced combining data from multiple tables.
 
 ## Day 6 
 Topics Covered: 
--Self Join 
--Advanced Join Queries 
+- Self Join 
+- Advanced Join Queries 
 
 Practiced complex join scenarios and table relationships.
 
 ## Day 7 
 Topics Covered:
--Alter Table 
--Update Command 
+- Alter Table 
+- Update Command 
 
 Practiced modifying table structure and updating data.
+
+## Day 8 
+Topics Covered: 
+- Text Functions 
+- Date & Time Functions 
+
+Practiced string manipulation and date-based queries.
 
 I will update this repository daily with new topics.
