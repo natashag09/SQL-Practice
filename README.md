@@ -59,4 +59,12 @@ Topics Covered:
 
 Practiced string manipulation and date-based queries.
 
+## Day 9 
+Topics Covered: 
+- Window Functions 
+- Row_Number, Rank, Dense_Rank 
+- Partition By 
+
+Practiced analytical queries and ranking problems. 
+
 I will update this repository daily with new topics.
