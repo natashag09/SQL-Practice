@@ -67,4 +67,13 @@ Topics Covered:
 
 Practiced analytical queries and ranking problems. 
 
+## Day 10 
+Topics Covered: 
+- First Value 
+- Last Value 
+- Lead 
+- Lag 
+
+Practiced analytical queries and row comparisions. 
+
 I will update this repository daily with new topics.
