@@ -76,4 +76,12 @@ Topics Covered:
 
 Practiced analytical queries and row comparisions. 
 
-I will update this repository daily with new topics.
+## Day 11 
+Topics Covered: 
+- Basic Subqueries 
+- Non-Correlated 
+- Correlated 
+
+Practiced filtering using nested queries. 
+
+I will update this repository daily with new topics. 
