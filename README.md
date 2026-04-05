@@ -84,4 +84,11 @@ Topics Covered:
 
 Practiced filtering using nested queries. 
 
+## Day 12 
+Topics Covered: 
+- Advanced Subqueries
+- Subqueries with Window Functions
+
+Practiced filtering using nested queries and window functions. 
+
 I will update this repository daily with new topics. 
