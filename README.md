@@ -91,4 +91,12 @@ Topics Covered:
 
 Practiced filtering using nested queries and window functions. 
 
+## Day 13 
+Topics Covered: 
+- Common Table Expression (CTEs)
+- CTEs with Aggregation 
+- CTEs with Joins
+
+Practiced writing cleaner and more readable SQL queries. 
+
 I will update this repository daily with new topics. 
