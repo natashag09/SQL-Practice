@@ -99,4 +99,10 @@ Topics Covered:
 
 Practiced writing cleaner and more readable SQL queries. 
 
+## Day 14 
+Topics Covered:
+- Case Statements 
+
+Practiced basic case expressions to apply conditional logic and categorize data in SQL queries.
+
 I will update this repository daily with new topics. 
