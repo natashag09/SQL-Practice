@@ -105,4 +105,12 @@ Topics Covered:
 
 Practiced basic case expressions to apply conditional logic and categorize data in SQL queries.
 
-I will update this repository daily with new topics. 
+## Day 15 
+Topics Covered: 
+- Views 
+- Indexes 
+- Case Statements
+
+Practiced creating views, understanding indexing, and using case statements in complex queries and aggregations. 
+
+I will update this repository daily with new topics.
