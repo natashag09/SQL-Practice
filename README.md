@@ -113,4 +113,15 @@ Topics Covered:
 
 Practiced creating views, understanding indexing, and using case statements in complex queries and aggregations. 
 
+## Day 16
+Topics Covered:
+- SQL Interview Questions 
+- Joins 
+- Subqueries
+
+**Platform** 
+Leetcode
+
+Solved basic SQL interview questions from leetcode focusing on joins and subqueries. 
+
 I will update this repository daily with new topics.
