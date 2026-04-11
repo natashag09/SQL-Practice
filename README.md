@@ -124,4 +124,17 @@ Leetcode
 
 Solved basic SQL interview questions from leetcode focusing on joins and subqueries. 
 
+## Day 17
+Topics Covered:
+- SQL Problem Solving
+- String Filtering using LIKE
+- Joins and Aggregation
+- Group by and having
+
+**Platform**
+-HackerRank
+-Leetcode
+
+Solved SQL problems involving string filtering, joins, and aggregation. Focused on applying logical conditions and improving query writing through real-world problem scenarios.
+
 I will update this repository daily with new topics.
