@@ -137,4 +137,17 @@ Topics Covered:
 
 Solved SQL problems involving string filtering, joins, and aggregation. Focused on applying logical conditions and improving query writing through real-world problem scenarios.
 
+## Day 18 
+Topics Covered: 
+- SQL Problem Solving 
+- Aggregate Functions
+- Case Statements 
+- Join and Subqueries 
+
+**Platform**
+-HackerRank
+-LeetCode 
+
+Solved SQL problems involving aggregation, conditional logic using CASE, and joins with subqueries. Focused on applying concepts to practical scenarios.
+
 I will update this repository daily with new topics.
