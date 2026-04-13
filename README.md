@@ -150,4 +150,12 @@ Topics Covered:
 
 Solved SQL problems involving aggregation, conditional logic using CASE, and joins with subqueries. Focused on applying concepts to practical scenarios.
 
+## Day 19
+Topics Covered:
+- Order by 
+- Limit
+- Where filtering
+
+Practiced basic filtering and sorting queries using where, order by, and limit to retrieve specific and ordered data.
+
 I will update this repository daily with new topics.
