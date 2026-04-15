@@ -158,4 +158,14 @@ Topics Covered:
 
 Practiced basic filtering and sorting queries using where, order by, and limit to retrieve specific and ordered data.
 
+## Day 20
+Topics Covered:
+- SQL Problem Solving 
+- String filtering (like)
+- Sorting and String Functions(order by, right)
+- Joins
+- Aggregation (group by, count)
+
+Focused on solving SQL problems from HackerRank and LeetCode. Practiced filtering data, sorting results, and combining tables using joins. Emphasis was on applying multiple concepts together and improving query logic.
+
 I will update this repository daily with new topics.
