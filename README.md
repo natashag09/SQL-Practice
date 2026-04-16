@@ -166,6 +166,22 @@ Topics Covered:
 - Joins
 - Aggregation (group by, count)
 
+**Platform**
+-HackerRank
+-LeetCode
+
 Focused on solving SQL problems from HackerRank and LeetCode. Practiced filtering data, sorting results, and combining tables using joins. Emphasis was on applying multiple concepts together and improving query logic.
+
+## Day 21
+Topics Covered:
+- SQL Problem Solving
+- Joins and NULL conditions
+- Self Join with date logic
+- GROUP BY and HAVING
+
+**platform**
+- LeetCode
+
+Solved SQL problems involving joins, self joins, and aggregation. Focused on applying different concepts to real interview-style questions.
 
 I will update this repository daily with new topics.
