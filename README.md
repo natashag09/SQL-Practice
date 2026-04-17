@@ -184,4 +184,16 @@ Topics Covered:
 
 Solved SQL problems involving joins, self joins, and aggregation. Focused on applying different concepts to real interview-style questions.
 
+## Day 22 
+Topics Covered:
+- SQL Problem Solving
+- Aggregate functions
+- Filtering conditions
+- Rounding and truncation
+
+**Platform:**
+- HackerRank
+
+Solved SQL problems involving aggregate calculations, filtering conditions, and numeric formatting using functions like ROUND and TRUNCATE.
+
 I will update this repository daily with new topics.
