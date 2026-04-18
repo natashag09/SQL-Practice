@@ -196,4 +196,12 @@ Topics Covered:
 
 Solved SQL problems involving aggregate calculations, filtering conditions, and numeric formatting using functions like ROUND and TRUNCATE.
 
+## Day 23
+Topics Covered: 
+- SQL Problem Solving
+- Window Functions
+- Filtering and date conditions
+
+Solved SQL problems using window functions like DENSE_RANK and MAX OVER for ranking and comparison. Also practiced filtering data using date conditions.
+
 I will update this repository daily with new topics.
