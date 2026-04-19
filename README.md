@@ -204,4 +204,13 @@ Topics Covered:
 
 Solved SQL problems using window functions like DENSE_RANK and MAX OVER for ranking and comparison. Also practiced filtering data using date conditions.
 
+## Day 24
+Topics Covered:
+- SQL Problem Solving
+- Filtering and sorting
+- Subqueries
+- Window functions (DENSE_RANK, LAG)
+
+Solved SQL problems involving filtering, subqueries, and window functions. Practiced ranking data within partitions and retrieving previous values using LAG.
+
 I will update this repository daily with new topics.
