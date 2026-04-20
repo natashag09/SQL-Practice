@@ -213,4 +213,13 @@ Topics Covered:
 
 Solved SQL problems involving filtering, subqueries, and window functions. Practiced ranking data within partitions and retrieving previous values using LAG.
 
+## Day 25
+Topics Covered:
+- SQL Problem Solving
+- Window Functions
+- Aggregation
+- Grouping and filtering
+
+Solved SQL problems involving ranking within partitions, aggregation using GROUP BY, and filtering using HAVING. Also practiced analyzing data over time using monthly grouping.
+
 I will update this repository daily with new topics.
