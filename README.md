@@ -231,4 +231,13 @@ Topics Covered:
 
 Solved SQL problems involving subqueries for comparison, aggregation using GROUP BY, and ranking data using window functions within partitions.
 
+## Day 27
+Topics Covered:
+- SQL Problem Solving
+- Joins
+- Aggregation
+- Window Functions
+
+Solved SQL problems involving joins, grouping, filtering with HAVING, and ranking within departments using window functions.
+
 I will update this repository daily with new topics.
