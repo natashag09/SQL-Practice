@@ -240,4 +240,13 @@ Topics Covered:
 
 Solved SQL problems involving joins, grouping, filtering with HAVING, and ranking within departments using window functions.
 
+## Day 28
+Topics Covered:
+- SQL Problem Solving
+- CASE statements
+- Date functions
+- Subqueries (NOT EXISTS)
+
+Solved SQL problems involving conditional logic using CASE, filtering data based on current date, and identifying records using NOT EXISTS subquery.
+
 I will update this repository daily with new topics.
