@@ -249,4 +249,13 @@ Topics Covered:
 
 Solved SQL problems involving conditional logic using CASE, filtering data based on current date, and identifying records using NOT EXISTS subquery.
 
+## Day 29
+Topics Covered:
+- SQL Problem Solving
+- NULL handling
+- Duplicates
+- Subqueries
+
+Solved SQL problems focusing on edge cases such as NULL values, duplicate records, and alternative approaches for common queries.
+
 I will update this repository daily with new topics.
