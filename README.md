@@ -258,4 +258,13 @@ Topics Covered:
 
 Solved SQL problems focusing on edge cases such as NULL values, duplicate records, and alternative approaches for common queries.
 
+## Day 30
+Topics Covered:
+- Advanced SQL Problem Solving
+- Correlated Subqueries
+- Self Joins
+- Nested Conditions
+
+Solved advanced SQL problems involving correlated subqueries, self joins, and multi-level filtering conditions.
+
 I will update this repository daily with new topics.
