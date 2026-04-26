@@ -267,4 +267,24 @@ Topics Covered:
 
 Solved advanced SQL problems involving correlated subqueries, self joins, and multi-level filtering conditions.
 
-I will update this repository daily with new topics.
+## Day 31
+**Topic** 
+SQL Data Analysis
+
+**Objective**
+To analyze employee salary data and extract meaningful insights.
+
+**Tasks Performed:**
+-Calculated total salary per department
+-Calculated average salary per department
+-Identified department with highest average salary
+
+**Insights:**
+-Departments with higher total salary indicate larger teams or higher pay scales
+-Average salary helps compare departments fairly
+-Top department reflects highest compensation trend
+
+**Conclusion:**
+This exercise focused on applying SQL for data analysis rather than just solving isolated problems.
+
+I will update this repository daily with new analysis.
