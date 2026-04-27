@@ -287,4 +287,22 @@ To analyze employee salary data and extract meaningful insights.
 **Conclusion:**
 This exercise focused on applying SQL for data analysis rather than just solving isolated problems.
 
+## Day 32
+
+**Topic:** 
+SQL Data Analysis (Sales Dataset)
+
+**Tasks Performed:**
+- Identified top 3 products based on total revenue
+- Calculated total sales for each month
+- Found customers contributing more than average revenue
+
+**Insights:**
+- Top products contribute significantly to overall revenue
+- Monthly sales trend helps understand business performance over time
+- High-value customers can be identified for targeted strategies
+
+**Conclusion:**
+This exercise focused on applying SQL for real-world sales analysis and understanding business-driven insights from data.
+
 I will update this repository daily with new analysis.
