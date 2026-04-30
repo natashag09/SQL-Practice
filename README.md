@@ -326,4 +326,25 @@ To analyze data across multiple tables and extract meaningful insights using joi
 **Conclusion:**
 This exercise focused on combining multiple tables using joins to perform real-world data analysis.
 
+## Day 34
+
+**Topic:**
+ SQL Data Analysis (Joins)
+
+**Objective:**
+To analyze data across multiple tables and extract meaningful insights using joins.
+
+**Tasks Performed:**
+-Calculated total spending per customer
+-Identified most sold product
+-Found customers who never placed orders
+
+**Insights:**
+-Helps identify high-value customers
+-Shows top-performing products
+-Highlights inactive customers for potential targeting
+
+**Conclusion:**
+This exercise focused on combining multiple tables using joins to perform real-world data analysis.
+
 I will update this repository daily with new analysis.
