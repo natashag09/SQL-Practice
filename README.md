@@ -275,14 +275,14 @@ SQL Data Analysis
 To analyze employee salary data and extract meaningful insights.
 
 **Tasks Performed:**
--Calculated total salary per department
--Calculated average salary per department
--Identified department with highest average salary
+- Calculated total salary per department
+- Calculated average salary per department
+- Identified department with highest average salary
 
 **Insights:**
--Departments with higher total salary indicate larger teams or higher pay scales
--Average salary helps compare departments fairly
--Top department reflects highest compensation trend
+- Departments with higher total salary indicate larger teams or higher pay scales
+- Average salary helps compare departments fairly
+- Top department reflects highest compensation trend
 
 **Conclusion:**
 This exercise focused on applying SQL for data analysis rather than just solving isolated problems.
@@ -314,14 +314,14 @@ This exercise focused on applying SQL for real-world sales analysis and understa
 To analyze data across multiple tables and extract meaningful insights using joins.
 
 **Tasks Performed:**
--Calculated total spending per customer
--Identified most sold product
--Found customers who never placed orders
+- Calculated total spending per customer
+- Identified most sold product
+- Found customers who never placed orders
 
 **Insights:**
--Helps identify high-value customers
--Shows top-performing products
--Highlights inactive customers for potential targeting
+- Helps identify high-value customers
+- Shows top-performing products
+- Highlights inactive customers for potential targeting
 
 **Conclusion:**
 This exercise focused on combining multiple tables using joins to perform real-world data analysis.
@@ -335,16 +335,37 @@ This exercise focused on combining multiple tables using joins to perform real-w
 To analyze data across multiple tables and extract meaningful insights using joins.
 
 **Tasks Performed:**
--Calculated total spending per customer
--Identified most sold product
--Found customers who never placed orders
+- Calculated total spending per customer
+- Identified most sold product
+- Found customers who never placed orders
 
 **Insights:**
--Helps identify high-value customers
--Shows top-performing products
--Highlights inactive customers for potential targeting
+- Helps identify high-value customers
+- Shows top-performing products
+- Highlights inactive customers for potential targeting
 
 **Conclusion:**
 This exercise focused on combining multiple tables using joins to perform real-world data analysis.
+
+## Day 35
+
+**Topic:**
+ SQL Data Analysis(Business Insights)
+
+**Objective:**
+To analyze sales data and generate business-oriented insights.
+
+**Tasks Performed:**
+- Calculated daily sales and order count
+- Identified top customer for each day
+- Calculated product-wise sales contribution percentage
+
+**Insights:**
+- Daily summaries help track performance trends
+- Top customers can be targeted for retention
+- Product contribution shows which items drive revenue
+
+**Conclusion:**
+This exercise focused on writing SQL queries that resemble real business dashboard requirements.
 
 I will update this repository daily with new analysis.
