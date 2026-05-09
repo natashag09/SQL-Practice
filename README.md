@@ -368,4 +368,25 @@ To analyze sales data and generate business-oriented insights.
 **Conclusion:**
 This exercise focused on writing SQL queries that resemble real business dashboard requirements.
 
+## Day 36
+
+**Topic:**
+ SQL Data Analysis (Sales and Customers)
+
+**Objective:**
+To analyze customer spending patterns and product activity using SQL queries.
+
+**Tasks Performed:**
+- Identified customer with highest total spending
+- Calculated average order amount per customer
+- Found products that were never ordered
+
+**Insights:**
+- High spending customers can be identified for business targeting
+- Average order value helps understand customer behavior
+- Unordered products may indicate low demand or inventory issues
+
+**Conclusion:**
+This exercise focused on analyzing customer and product data to generate meaningful business insights.
+
 I will update this repository daily with new analysis.
